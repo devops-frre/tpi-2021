@@ -3,19 +3,8 @@
 ## Como empezar
 
 - Formar grupo de 3 personas como máximo
-- Realizar un fork de este repositorio (un solo integrante del grupo)
-- Configurar el repositorio como privado
-- Completar las siguiente tabla
-
-Nombre Grupo: 
-
-| Legajo | Nombre y Apellido | Cuenta Github 						|
-| ------ | ----------------- | ------------------------------------ |
-| 99999  | Pepito Gimenez    | [@pepito](https://github.com/pepito) |
-| 99999  | Pepito Gimenez    | [@pepito](https://github.com/pepito) |
-| 99999  | Pepito Gimenez    | [@pepito](https://github.com/pepito) |
-
-- Comenzar a realizar el TPI
+- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/g/Sd5rqpwM) a la actividad
+- Formar el equipo o unirse al grupo correspondientes a través de la invitación
 
 ## Actividad
 
@@ -50,18 +39,17 @@ Nombre Grupo:
 
 - El repositorio forkeado que incluya
 	- Código
-	- Manifiestos (Containers, Kubernetes)																														
+	- Manifiestos (Containers, Kubernetes)
 	- Pipelines
 	- Diapositivas
 	- Scripts de base de datos
-- Como parte de la entrega deberán dar permisos de lectura a la cuenta de GitHub [@nelsonyacccuzzi](https://github.com/nelsonyacccuzzi), no hace falta que se asignen estos permisos con anterioridad.
 - No se tendrán en cuenta commits hechos fuera de termino
 - Zippear el repositorio y subirlo al campus virtual [en la actividad correspondiente](https://frre.cvg.utn.edu.ar/mod/assign/view.php?id=52802)
 - Se van a permitir entregas hasta el domingo 29 de noviembre.
 
 ## Presentación
 
-Durante la exposición deberan tener preparado:
+Durante la exposición deberán tener preparado:
 
 - Este repositorio con todo el código, manifiesto, pipelines completo 
 - Diapositivas donde se explique brevemente:
