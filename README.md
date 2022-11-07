@@ -3,7 +3,7 @@
 ## Como empezar
 
 - Formar grupo de 3 personas como máximo
-- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/7c9L8mfI) a la actividad
+- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/K6ikGyU9) a la actividad
 - Formar el equipo o unirse al grupo correspondientes a través de la invitación
 
 ## Actividad
@@ -45,7 +45,7 @@
 	- Scripts de base de datos
 - No se tendrán en cuenta commits hechos fuera de termino
 - Zippear el repositorio y subirlo al campus virtual [en la actividad correspondiente](https://frre.cvg.utn.edu.ar/mod/assign/view.php?id=52802)
-- Se van a permitir entregas hasta el domingo 28 de noviembre.
+- Se van a permitir entregas hasta el jueves 2 de noviembre.
 
 ## Presentación
 
@@ -68,7 +68,7 @@ Durante la exposición deberán tener preparado:
 Consideraciones:
 
 - La exposición no deberá durar mas de 45 minutos
-- La exposición se realizará el lunes 29 de noviembre, a cada grupo se le asignara un horario determinado
+- La exposición se realizará el viernes 2 de diciembre, a cada grupo se le asignara un horario determinado
 
 ## Criterios de Evaluación
 
@@ -83,5 +83,5 @@ Consideraciones:
 
 ## Consultas
 
-- La clase del 26 de noviembre será exclusiva de consultas sobre el TPI
+- La clase del 28 de noviembre será exclusiva de consultas sobre el TPI
 - Se podrán hacer consultas en el canal ["Trabajo Practico Integrador"](https://teams.microsoft.com/l/channel/19%3a70fff4252c8d45b0a789b74268c4ad88%40thread.tacv2/Trabajo%2520Practico%2520Integrador?groupId=2aa36837-3911-4d86-ab90-23af92e6f157&tenantId=35e9cd03-43d0-4947-b582-a6965c4cb674) en el equipo "Devops" en Microsoft Teams
